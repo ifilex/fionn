@@ -142,6 +142,12 @@ Son bienvenidos los comentarios, los reportes de errores y las propuestas de mej
 
 Para reportar un problema, incluir la versión de MetaTrader 4, el instrumento, los parámetros utilizados y los mensajes relevantes del registro, sin datos personales ni credenciales.
 
+## Licencia
+
+Este proyecto se distribuye bajo la licencia **Apache License 2.0**.
+
+Consultar el archivo [LICENSE](LICENSE) para conocer los términos completos.
+
 ## Aviso
 
 Material técnico y educativo. No constituye asesoramiento financiero ni una promesa de resultados.
